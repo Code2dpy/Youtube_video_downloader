@@ -40,8 +40,8 @@ also you might get this one also:
 
 then just click cancel and use the .exe 
 
-***NOTE:This .exe has no virus you can perform a security check to see the same.In case your PC detects this as a virus please create an issue.***
+***NOTE:This .exe has no virus you can perform a security check to see the same.In case your PC detects this as a virus please try reinstalling.***
 
 # Contribution
 
-Do you want to  contribute? make a pull request or 
+Do you want to  contribute? make a pull request or request a feature.
