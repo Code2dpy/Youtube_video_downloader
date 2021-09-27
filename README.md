@@ -3,7 +3,7 @@
 <div align="center">
     <br />
     <img src="https://user-images.githubusercontent.com/84425771/133885772-cfe73fc1-f741-48dd-8b60-a07ff2faa364.png" width="200"/>
-    <h1>Youtube Video Generator</h1>
+    <h1>Youtube Video Downloader</h1>
     <h3>Download multiple videos in one go!</h3>
 </div>
 
